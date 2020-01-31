@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronics and Communication Engineering, VTU, India, 2012
+* M.Sc. in Wireless Communication, University of Sheffield, 2013
+* Ph.D in Electronic and Electrical Engineering, University of Sheffield, 2018
 
 Work experience
 ======
