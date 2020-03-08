@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Veerendra C Angadi's home on the web
+This is Dr. Veerendra C Angadi's home on the web.!
