@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Veerendra C Angadi"
-  avatar           : "/images/bio-page.jpg"
+  avatar           : "profile.jpg"
   bio              : "Research Fellow at Brunel University London"
   location         : "London, UK"
   employer         :
