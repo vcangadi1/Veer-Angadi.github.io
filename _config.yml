@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr. Veerendra C Angadi"
+title                    : "Veerendra C Angadi"
 title_separator          : "-"
-name                     : &name "Dr. Veerendra C Angadi"
+name                     : &name "Veerendra C Angadi"
 description              : &description "Research Fellow at Brunel University London"
 url                      : https://vcangadi1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Veerendra C Angadi"
+  name             : "Veerendra C Angadi"
   avatar           : "profile.jpg"
   bio              : "Research Fellow at Brunel University London"
   location         : "London, UK"
