@@ -18,10 +18,15 @@ Education
 
 Work experience
 ======
- * Feb 2018 - <i>Current</i>: Research Fellow
+* Feb 2018 - <i>Current</i>: Research Fellow
  * Brunel University London, UK
  * Project: [H2020](https://ec.europa.eu/programmes/horizon2020/en) [Z-BRE4K](https://www.z-bre4k.eu/) (grant No. 768869)
  * Supervisor: [Dr. Alireza Mousavi](http://people.brunel.ac.uk/~emstaam/)
+* Sep 2013 - Dec 2013: Technical Support
+ * University of Sheffield & Rolls Royce UTC, UK
+ * Project: Development of Robust Wireless Sensor Network
+ * Supervisor: [Dr Jonathan M Rigelsford](https://www.sheffield.ac.uk/eee/staff/publ/jrig)
+
 
 Publications
 ======
