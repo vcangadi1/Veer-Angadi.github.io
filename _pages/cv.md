@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronic and Electrical Engineering, University of Sheffield, 2018
-* M.Sc. in Wireless Communication, University of Sheffield, 2013
+* Ph.D in Electronic and Electrical Engineering, University of Sheffield, United Kingdom, 2018
+* M.Sc. in Wireless Communication, University of Sheffield, United Kingdom, 2013
 * B.Eng. in Electronics and Communication Engineering, VTU, India, 2012
 
 
@@ -20,7 +20,7 @@ Work experience
 ======
  * Feb 2018 - <i>Current</i>: Research Fellow
  * Brunel University London, UK
- * Project: [H2020](https://ec.europa.eu/programmes/horizon2020/en) [Z-BRE4K](https://www.z-bre4k.eu/)
+ * Project: [H2020](https://ec.europa.eu/programmes/horizon2020/en) [Z-BRE4K](https://www.z-bre4k.eu/) (grant No. 768869)
  * Supervisor: [Dr. Alireza Mousavi](http://people.brunel.ac.uk/~emstaam/)
 
 Publications
