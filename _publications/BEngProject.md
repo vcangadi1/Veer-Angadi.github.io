@@ -2,7 +2,7 @@
 title: "Design and development of secured image watermarking for embedded system applications"
 collection: publications
 permalink: /publication/BEngProject
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Design and development of secured image watermarking for embedded system applications.'
 date: 2012-06-04
 venue: 'BEng Dissertation'
 # paperurl: 'http://dx.doi.org/10.13140/RG.2.1.5069.2087'
