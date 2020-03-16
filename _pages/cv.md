@@ -67,7 +67,7 @@ Travel Grants
 Professional Memberships
 ======
 
-| IEEE                              | 2018--      |
+| IEEE                              | 2018--     |
 | IETE                              | 2008-2012  |
 | Institute of Physics (IoP)        | 2014-2018  |
 | Royal Microscopical Society (RMS) | 2014-2018  |
