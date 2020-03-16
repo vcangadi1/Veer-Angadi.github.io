@@ -37,15 +37,16 @@ PhD Evaluations: Reviewer
 
 Interests
 ======
-<i> Software Packages </i>            [EELSAnalyser](https://github.com/vcangadi1/EELSAnalyser)
-<i> Cold-FEG TEM alignment guide </i?>[JEOL 2010F](https://github.com/vcangadi1/TEM_alignment_for_JEOL2010/blob/master/main.pdf)
-<i> Computing Suits and Coding </i>   MATLAB, C++, Python, R, FORTRAN
-<i> Experimentation </i>              Embedded System development:
-                                      Arduino, Raspberry pi, MSP430, EZ430-RF2500
-<i> Collaboration Interests </i>      Hyperspectral data Analysis, EELS Spectrum Analysis, Advanced Spatial Statistical Analysis, 
-                                      Unsupervised/Supervised machine learning, Clustering, Data Modelling, Statistical Signal Processing, 
-                                      Image Data Analysis, High Performance Computing, Pipeline, Multi-core processing, Data Compression.
 
+| <i> Software Packages </i>               | [EELSAnalyser](https://github.com/vcangadi1/EELSAnalyser)                                            |
+| <i> Cold-FEG TEM alignment guide </i>    | [JEOL 2010F](https://github.com/vcangadi1/TEM_alignment_for_JEOL2010/blob/master/main.pdf)           |
+| <i> Computing Suits and Coding </i>      | MATLAB, C++, Python, R, FORTRAN                                                                      |
+| <i> Experimentation </i>                 | Embedded System development: Arduino, Raspberry pi, MSP430, EZ430-RF2500                             |
+| <i> Collaboration Interests </i>         | Hyperspectral data Analysis, EELS Spectrum Analysis, Advanced Spatial Statistical Analysis           |
+|                                          | Unsupervised/Supervised machine learning, Clustering, Data Modelling, Statistical Signal Processing, |
+|                                          | Image Data Analysis, High Performance Computing, Pipeline, Multi-core processing, Data Compression.  |
+
+                                      
 Scholarships
 ======
 <i> Jan 2014 </i> PhD Scholarship: Dept of EEE, University of Sheffield, UK 01/2014 - 01/2017
