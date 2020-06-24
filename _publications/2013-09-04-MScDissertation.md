@@ -1,7 +1,7 @@
 ---
 title: "Quality of Experience based Video Summarization"
 collection: publications
-permalink: /publication/MScDissertation
+permalink: /publication/2013-09-04-MScDissertation
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2013-09-04
 venue: 'MSc Dissertation'
