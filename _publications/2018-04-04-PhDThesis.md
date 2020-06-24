@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Electron Energy-loss Spectrum Data Processing for Hyperspectral Imaging in Analytical Transmission Electron Microscopy"
 collection: publications
-permalink: /publication/PhDThesis
+permalink: /publication/2018-04-04-PhDThesis
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-04-04
 venue: 'PhD Thesis'
