@@ -1,7 +1,7 @@
 ---
 title: "Design and development of secured image watermarking for embedded system applications"
 collection: publications
-permalink: /publication/BEngProject
+permalink: /publication/2012-06-04-BEngProject
 excerpt: 'Design and development of secured image watermarking for embedded system applications.'
 date: 2012-06-04
 venue: 'BEng Dissertation'
