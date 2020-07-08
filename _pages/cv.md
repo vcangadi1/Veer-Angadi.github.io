@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* PhD in Electronic and Electrical Engineering, University of Sheffield, United Kingdom, 2018
-    * Thesis [here](/publication/PhDThesis),
+* PhD in Electronic and Electrical Engineering, The University of Sheffield, United Kingdom, 2018
+    * Thesis [here](/publication/PhDThesis.pdf),
     * [EELSAnalyser](https://github.com/vcangadi1/EELSAnalyser): EELS analytical MATLAB software package tools [here](https://github.com/vcangadi1/EELSAnalyser)
-* MSc. in Wireless Communication, University of Sheffield, United Kingdom, 2013
-    * Dissertation [here](/publication/MScDissertation)
+* MSc. in Wireless Communication, The University of Sheffield, United Kingdom, 2013
+    * Dissertation [here](/publication/MScDissertation.pdf)
 * BEng. in Electronics and Communication Engineering, VTU, India, 2012
-    * Project report [here](/publication/BEngProject)
+    * Project report [here](/publication/BEngProject.pdf)
 
 Work experience
 ======
 * Feb 2018 - <i>Current</i>: Research Fellow
     * Brunel University London, UK
-    * Project: [H2020](https://ec.europa.eu/programmes/horizon2020/en) [Z-BRE4K](https://www.z-bre4k.eu/) (grant No. 768869)
+    * Project: [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en) [Z-BRE4K](https://www.z-bre4k.eu/) (grant No. 768869)
     * Supervisor: [Dr. Alireza Mousavi](http://people.brunel.ac.uk/~emstaam/)
 
 * Sep 2013 - Dec 2013: Technical Support
-    * University of Sheffield & Rolls Royce UTC, UK
+    * The University of Sheffield & Rolls Royce UTC, UK
     * Project: Development of Robust Wireless Sensor Network
-    * Supervisor: [Dr Jonathan M Rigelsford](https://www.sheffield.ac.uk/eee/staff/publ/jrig)
+    * Supervisor: [Dr. Jonathan M Rigelsford](https://www.sheffield.ac.uk/eee/staff/publ/jrig)
 
 PhD Evaluations: Reviewer
 ======
@@ -50,8 +50,8 @@ Interests
 Scholarships
 ======
 
-| <i> Jan 2014 </i> | PhD Scholarship: Dept of EEE, University of Sheffield, UK 01/2014 - 01/2017 |
-| <i> Sep 2012 </i> | Indian Merit Postgraduate Scholarship, UK 09/2012 - 09/2013                 |
+| <i> Jan 2014 </i> | PhD Scholarship: Dept of EEE, The University of Sheffield, UK 01/2014 - 01/2017 |
+| <i> Sep 2012 </i> | Indian Merit Postgraduate Scholarship, UK 09/2012 - 09/2013                 	  |
 
 Travel Grants
 ======
