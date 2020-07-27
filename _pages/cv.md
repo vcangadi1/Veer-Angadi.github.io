@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * PhD in Electronic and Electrical Engineering, The University of Sheffield, United Kingdom, 2018
-    * Thesis [here](/publication/PhDThesis.pdf),
+    * Thesis [here](http://etheses.whiterose.ac.uk/id/eprint/20007),
     * [EELSAnalyser](https://github.com/vcangadi1/EELSAnalyser): EELS analytical MATLAB software package tools [here](https://github.com/vcangadi1/EELSAnalyser)
 * MSc. in Wireless Communication, The University of Sheffield, United Kingdom, 2013
-    * Dissertation [here](/publication/MScDissertation.pdf)
+    * Dissertation [here](http://dx.doi.org/10.13140/2.1.4458.5768)
 * BEng. in Electronics and Communication Engineering, VTU, India, 2012
-    * Project report [here](/publication/BEngProject.pdf)
+    * Project report [here](/publication/BEngProject)
 
 Work experience
 ======
